@@ -1,4 +1,4 @@
-- YO,I'm JatinDgrt
+- YO,I'm Jatin
 - 👀 I’m interested in Automation and AI
 - 🌱 Recently piqued intrested in Quantum Mechanics, Computing and High energy Physics
 - 💞️ Looking to Collaborate and enter Competitions , Hackathons...
